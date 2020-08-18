@@ -1,0 +1,50 @@
+body {
+    background: #fefefe;
+}
+section{
+    background-color:rgb(248, 247, 247);
+    color:black;
+}
+
+
+h1{
+    color:green;
+}
+h2 {
+    color: #3be674;
+}
+h3{
+    color:#292e06;
+}
+b{
+    color: darkgreen;
+}
+i{
+    color: darkorchid;
+}
+
+
+.navy_style{
+    color: darkslategrey;
+}
+.red_letters{
+    color: firebrick;
+    background: greenyellow;
+}
+.gray_background{
+    color: #258d48;
+    background: rgb(209, 207, 207);
+}
+
+
+#top{
+    background: lavender;
+}
+
+
+nav a{
+    color: lawngreen;
+}
+article a{
+    color: orange;
+}
