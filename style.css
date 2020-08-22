@@ -1,50 +1,63 @@
 body {
-    background: #fefefe;
-}
-section{
-    background-color:rgb(248, 247, 247);
-    color:black;
+  background: #fefefe;
 }
 
-
-h1{
-    color:green;
+h1 {
+  color: green;
 }
 h2 {
-    color: #3be674;
+  color: #3be674;
 }
-h3{
-    color:#292e06;
+h3 {
+  color: #292e06;
 }
-b{
-    color: darkgreen;
+b {
+  color: darkgreen;
 }
-i{
-    color: darkorchid;
+i {
+  color: darkorchid;
+}
+
+.navy_style {
+  color: darkslategrey;
+}
+.red_letters {
+  color: firebrick;
+  background: greenyellow;
+}
+.gray_background {
+  color: #258d48;
+  background: rgb(209, 207, 207);
+}
+
+#top {
+  background: lavender;
+}
+
+nav a {
+  color: lawngreen;
+}
+article a {
+  color: orange;
+}
+
+.navigation {
+  background: rgb(2, 148, 2);
+  padding: 16px;
+  border-radius: 8px;
+}
+.navigation__link {
+  color: #fefefe;
+  display: inline-block;
+  margin-right: 20px;
+}
+.navigation__link-homepage {
+  color: black;
 }
 
 
-.navy_style{
-    color: darkslategrey;
-}
-.red_letters{
-    color: firebrick;
-    background: greenyellow;
-}
-.gray_background{
-    color: #258d48;
-    background: rgb(209, 207, 207);
-}
 
-
-#top{
-    background: lavender;
-}
-
-
-nav a{
-    color: lawngreen;
-}
-article a{
-    color: orange;
+.main {
+  width: 1000px;
+  background: yellow;
 }
