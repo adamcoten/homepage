@@ -48,8 +48,14 @@ article a {
 }
 .navigation__link {
   color: #fefefe;
+  background: rgb(96, 167, 96);
   display: inline-block;
   margin-right: 20px;
+  padding: 4px;
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 4px;
+  border-color: #09a509;
 }
 .navigation__link-homepage {
   color: black;
